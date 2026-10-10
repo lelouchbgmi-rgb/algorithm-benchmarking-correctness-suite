@@ -31,6 +31,4 @@ python benchmarks/run_benchmarks.py --size 50000 --queries 2000 --repeats 5
 
 This is a learning/portfolio project. The benchmark is not a controlled scientific study, and performance varies by environment and workload.
 
-To document benchmark experiments, record the machine specifications, Python version, command used, workload size, number of repetitions, and measured results in `docs/experiment-notes.md`.
-
-Only include results that you have actually measured. Do not invent performance numbers or draw conclusions from a single run.
+Benchmark results should be based on actual measurements. Do not invent performance numbers or draw conclusions from a single run.
